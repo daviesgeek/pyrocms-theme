@@ -8,7 +8,7 @@ return [
         'theme::img/backgrounds/ravine.jpg',
         'theme::img/backgrounds/mountains.jpg',
         'theme::img/backgrounds/landscape.jpg',
-        'theme::img/backgrounds/power-lines.jpg'
+        'theme::img/backgrounds/power-lines.jpg',
     ],
     'banners'     => [
         'theme::img/banners/urban.jpg',
@@ -17,6 +17,6 @@ return [
         'theme::img/banners/ravine.jpg',
         'theme::img/banners/mountains.jpg',
         'theme::img/banners/landscape.jpg',
-        'theme::img/banners/power-lines.jpg'
-    ]
+        'theme::img/banners/power-lines.jpg',
+    ],
 ];
